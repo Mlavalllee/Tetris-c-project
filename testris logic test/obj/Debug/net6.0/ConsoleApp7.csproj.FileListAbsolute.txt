@@ -1,0 +1,30 @@
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\bin\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\m.lavallee3\source\repos\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\m.lavallee3\source\repos\testris logic test\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\m.lavallee3\source\repos\testris logic test\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\m.lavallee3\source\repos\testris logic test\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\m.lavallee3\source\repos\testris logic test\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\m.lavallee3\source\repos\testris logic test\bin\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\m.lavallee3\source\repos\testris logic test\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\m.lavallee3\source\repos\testris logic test\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
